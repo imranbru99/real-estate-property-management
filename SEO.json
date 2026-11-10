@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "real-estate-property-management",
+  "description": "Real Estate Property Management — PropTech Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Property management for units, tenants, rent collection, maintenance, and owner statements. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "proptech",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/real-estate-property-management"
+}
